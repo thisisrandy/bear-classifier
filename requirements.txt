@@ -43,7 +43,7 @@ spacy==2.2.2
 srsly==0.2.0
 starlette==0.49.1
 thinc==7.3.1
-torch==2.7.0
+torch==2.13.0
 torchvision==0.4.2
 tqdm==4.66.3
 typing-extensions==3.7.4.1
